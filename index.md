@@ -15,4 +15,5 @@ A simple getting started guide to [git](https://git-scm.com/) and [github](https
     * rebasing
 * stashing
 * cherry picking
-* config
+* advanced config
+    * multiple accounts
